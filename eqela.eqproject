@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# game_arroyo
+#
+
+projectname: game_arroyo
+vendorid: com.mycompany
+mainmodule: com.mycompany.gamearroyo
